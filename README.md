@@ -1,4 +1,4 @@
-# Tableau
+# Tableau - Data Visualization
 
 These are some of my Tableau worksheets that I've used to learn Tableau.  In each section, I attach a CSV or Excel file to analyze.  I then attach my Tableau worksheets from the data.  These materials came from a Udemy course.
 
