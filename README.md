@@ -13,3 +13,4 @@ Section 3 - P1-Long-Term-Unemployment-Statistics shows unemployment data
 Section 4 - P1-AmazingMartEU2 file has multiple tables showing orders, sales, region, profit, etc.  
 1) Profit Margin and Sales - I created this sheet by doing an inner join on the tables to show the profit margin and sales.  I made a geographical hierarchy to show country > state > city.  I then filtered by year with the profit margin demonstrated in color (red to blue) and the sum of the sales demonstrated in size.  
 2) Customer Scatter Plot - I show sales vs. profit by customer name which can be filtered by year. 
+3) Dashboard - I create a hover action to filter through the state to show the customer scatter plot of profit vs sales 
