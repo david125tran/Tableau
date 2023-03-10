@@ -1,6 +1,6 @@
 # Tableau
 
-These are some of my Tableau worksheets that I've used to learn Tableau.  In each section, I attach a CSV or Excel file to analyze.  I then attach my Tableau worksheets from the data.  
+These are some of my Tableau worksheets that I've used to learn Tableau.  In each section, I attach a CSV or Excel file to analyze.  I then attach my Tableau worksheets from the data.  These materials came from a Udemy course.
 
 Section 2 - P1-OfficeSupplies file shows different office supplies, price, and units sold by sales representative (Rep)
 1) Most Total Sales Per Region - I show which sales representative (Rep) had the most total sales.  I created a calculated field in Tableau to show who had the most total sales per region.  Total Sales = (Units * Unit Price)
