@@ -18,7 +18,7 @@ a) Map of Europe Sheet - I made a geographical hierarchy to show country > state
 b) Customer Scatter Plot Sheet - I show sales vs. profit by customer name which can be filtered by year.  
 c) Dashboard w/State Filter - I create an interactive dashboard with an added hover action to show the customer scatter plot by state.  This can be filtered by year.  
 d) Dashboard w/Highlighting - I create an interactive dashboard with an added hover action to show the state of the selected customers or show the customer scatter plot by state.  This can be filtered by year.  
-2) Sales and Target - I do a data blend of P1-AmazingMartEU2 file to create a dual axis chart which shows sales vs. targeted sales over time.  I also create a calculated field which shows the excess of target over time.  
+2) Sales and Target - I do a data blend of P1-AmazingMartEU2 file to create a dual axis chart which shows sales vs. targeted sales over time.  The dual axis chart has a syncronized axis.  I also create a calculated field which shows the excess of target over time.  
   
 Section 5 - P1-Airline-Comparison shows two different airlines with different revenues over different financial quarters.  
 1) Airline Comparison - I do a blend of the file to show a comparison of the revenues of the two airlines split up by region.  I do a blend instead of a join because the tables have different levels of granularity for the region.  One airline covers more regions and thus has more granularity.  
