@@ -22,3 +22,12 @@ d) Dashboard w/Highlighting - I create an interactive dashboard with an added ho
   
 Section 5 - P1-Airline-Comparison shows two different airlines with different revenues over different financial quarters.  
 1) Airline Comparison - I do a blend of the file to show a comparison of the revenues of the two airlines split up by region.  I do a blend instead of a join because the tables have different levels of granularity for the region.  One airline covers more regions and thus has more granularity.  
+  
+Section 6 - P1-UK-Bank-Customers  
+1) Bank Customers Distribution  
+a) Map - I set the Region dimension into a geographical location.  I then configure the unknown locations so that Tableau can understand where they are to show the geographical distribution of the customer base.  
+b) Gender - I show the gender distribution of the customer base as a percentage.  
+c) Age - I show the age distribution of the customer base in bins.  I create a parameter for the age groups so that the bins can be either 1, 5, or 10 year age bins.  
+d) Balance - I show the balance distribution of the customer base in bins.  I create a parameter for the balance groups so that the bins can be any balance that is typed in.  
+e) Job - I show the job distribution of the customer base as a tree map.  
+f) Customer Segmentation Dashboard - I create an interactive dashboard that shows the map, gender, age, balance, and job distribution of the customer base.  Where you can click on individual dimensions to see how the rest of the customer distribution changes.  
