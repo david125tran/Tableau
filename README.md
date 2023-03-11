@@ -1,8 +1,6 @@
 # Tableau - Data Visualization  
   
-All work done in Tableau (version 2019.2.2)
-
-These are some of my Tableau worksheets that I've used to learn Tableau.  In each section, I attach a CSV or Excel file to analyze.  I then attach my Tableau worksheets from the data.  These materials came from a Udemy course.
+All work done in Tableau (version 2019.2.2).  I did this under the Udemy course, Tableau 2022: A-Z: Hands on Tableau Training for Data Science by Kirill Eremenko. In each section, I attach a file to analyze.  I then attach my Tableau worksheets from the data.  
 
 Section 2 - P1-OfficeSupplies file shows different office supplies, price, and units sold by sales representative (Rep)
 1) Most Total Sales Per Region - I show which sales representative (Rep) had the most total sales.  I created a calculated field in Tableau to show who had the most total sales per region.  Total Sales = (Units * Unit Price)
