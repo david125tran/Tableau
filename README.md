@@ -32,3 +32,8 @@ d) Balance - I show the balance distribution of the customer base in bins.  I cr
 e) Job - I show the job distribution of the customer base as a tree map.  
 f) Customer Segmentation Dashboard - I create an interactive dashboard that shows the map, gender, age, balance, and job distribution of the customer base.  Where you can click on individual dimensions to see how the rest of the customer distribution changes.  
 g) Customer Segmentation Storyline - I create an interactive storyline to look at customer distribution across the different countries.  
+  
+Section 7 - I clean up file P1-PersonalVehicleSalesGlobal_Dirty to make P1-PersonalVehicleSalesGlobal_Cleaned.  I then work with the cleaned file.  
+1) Global Vehicle Sales - I use the Tableau data interpreter on the P1-PersonalVehicleSalesGlobal_Cleaned file.  I then perform a pivot on the years & use the metadata grid to rename the pivot column names.   
+a) Vehicle Sales - From the modified data source, I then create a visual of the % of total vehicles sold by region.  
+b) Global Map - I create a visual of global vehicle sales filtered by year. 
