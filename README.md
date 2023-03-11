@@ -31,3 +31,4 @@ c) Age - I show the age distribution of the customer base in bins.  I create a p
 d) Balance - I show the balance distribution of the customer base in bins.  I create a parameter for the balance groups so that the bins can be any balance that is typed in.  
 e) Job - I show the job distribution of the customer base as a tree map.  
 f) Customer Segmentation Dashboard - I create an interactive dashboard that shows the map, gender, age, balance, and job distribution of the customer base.  Where you can click on individual dimensions to see how the rest of the customer distribution changes.  
+g) Customer Segmentation Storyline - I create an interactive storyline to look at customer distribution across the different countries.  
